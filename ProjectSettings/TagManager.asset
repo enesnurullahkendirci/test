@@ -11,6 +11,12 @@ TagManager:
   - Bot2
   - Bot3
   - Mid
+  - botlar
+  - masayoneticisi
+  - oyunbaslatbuton
+  - skorboard
+  - yenidenbaslatbuton
+  - canvas
   layers:
   - Default
   - TransparentFX

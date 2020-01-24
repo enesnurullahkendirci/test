@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/oyunbasi.unity
+    guid: 0aea73436d9105b4ca2106c709988070
+  - enabled: 1
+    path: Assets/Scenes/Masa.unity
+    guid: dfa9490c0e3fcd94fb093e9666170ec2
   m_configObjects: {}
