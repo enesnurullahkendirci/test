@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8561133429827082910
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8561133429827082908}
+  - component: {fileID: 8561133429827082911}
+  m_Layer: 0
+  m_Name: MasaYoneticisi
+  m_TagString: masayoneticisi
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8561133429827082908
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8561133429827082910}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.14594531, y: 0.7297291, z: -0.0593691}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8561133429827082911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8561133429827082910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d08fdc259f609bf42b86a75717c13c52, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deste: []
+  kartyuzeyi:
+  - {fileID: 21300000, guid: aa5cbba4e3802a54d88539262231824e, type: 3}
+  - {fileID: 21300000, guid: 57c6a8f52713ebf40aa5256cbcb74a5b, type: 3}
+  - {fileID: 21300000, guid: 6b8c27c3604f9494d9b43845a3c700aa, type: 3}
+  - {fileID: 21300000, guid: 122fd4484f359ce409bcd75152afb95f, type: 3}
+  - {fileID: 21300000, guid: d24f9be12ad21854c8c21409b1bd0b2e, type: 3}
+  - {fileID: 21300000, guid: 1fc05619bd412b14ea356b59a541dc4e, type: 3}
+  - {fileID: 21300000, guid: 24f98f63b02cb4d4c9c5652e00e26561, type: 3}
+  - {fileID: 21300000, guid: 6c95f630d7d6ca3449480728f60518fa, type: 3}
+  - {fileID: 21300000, guid: cc284b2197e4b1a498b2430df4f8042b, type: 3}
+  - {fileID: 21300000, guid: 717319e56c8a8924b910acdaa678d941, type: 3}
+  - {fileID: 21300000, guid: 5ea50aa1bb7e62f4c8ff75c3ac9e9d4b, type: 3}
+  - {fileID: 21300000, guid: dcedd1aa159e19a4f9d921afbf121d5a, type: 3}
+  - {fileID: 21300000, guid: 19d9a4924f4c9984593176397a9a5f0d, type: 3}
+  - {fileID: 21300000, guid: 339dde9bffa92a7448a08addc125d438, type: 3}
+  - {fileID: 21300000, guid: c98d87056e9a2544bb9465aca57d1deb, type: 3}
+  - {fileID: 21300000, guid: e5f025aa7816f854f83588ac4f8b39b0, type: 3}
+  - {fileID: 21300000, guid: d1d9220b60d77bd48ae229eada88e1ab, type: 3}
+  - {fileID: 21300000, guid: e7ab1eece5acd2c4bbd5c130b7d82bee, type: 3}
+  - {fileID: 21300000, guid: 34bf3b4809d2fc14b8aa50c17444d8ce, type: 3}
+  - {fileID: 21300000, guid: 5abc34bcd768fc34785c54c844e45266, type: 3}
+  - {fileID: 21300000, guid: 229a9f0927b1e9b418881451097bb3cc, type: 3}
+  - {fileID: 21300000, guid: 8b4543b0b94b1c649aeb4893862b1c03, type: 3}
+  - {fileID: 21300000, guid: 664aba6d84ed4284aaa3e333d58b810e, type: 3}
+  - {fileID: 21300000, guid: 8b696e05c493ed542a99681e6af29e2c, type: 3}
+  - {fileID: 21300000, guid: b2e29648ec502cf45bd30f52f5df66c6, type: 3}
+  - {fileID: 21300000, guid: f28a3308346104b488c11e71f63bff84, type: 3}
+  - {fileID: 21300000, guid: 413d7ef0a76246a41a00784392f65733, type: 3}
+  - {fileID: 21300000, guid: 897bd032c8473f14ab89885a78638d1e, type: 3}
+  - {fileID: 21300000, guid: 1f4de6a68fd47b342b750ecaa915f70d, type: 3}
+  - {fileID: 21300000, guid: 47771ca7adf49fd4d9c766460e8c9dcb, type: 3}
+  - {fileID: 21300000, guid: 8ea702740e41c1b458104a43e985995a, type: 3}
+  - {fileID: 21300000, guid: d1c58073874ea4c4182bc7a413360c4e, type: 3}
+  - {fileID: 21300000, guid: ebb8058c9a588ba48af34df7f0de2c8c, type: 3}
+  - {fileID: 21300000, guid: b08d04528dfe5a64996c4f9b49ffa0b9, type: 3}
+  - {fileID: 21300000, guid: 7e8e47be15b1f4548b00a94b9a2e7d6a, type: 3}
+  - {fileID: 21300000, guid: f973eb33411165144aa97855c1274ecf, type: 3}
+  - {fileID: 21300000, guid: a452d43f24bf51041aeb2418318507d5, type: 3}
+  - {fileID: 21300000, guid: 78cd72c317e887a4f81f47a5dfd33330, type: 3}
+  - {fileID: 21300000, guid: f6ad9951be3ffe947800c82e37f35426, type: 3}
+  - {fileID: 21300000, guid: 3f66c418f94ee354680a2ca75d4c676f, type: 3}
+  - {fileID: 21300000, guid: aae5fea54f9519f488173f1e47c75870, type: 3}
+  - {fileID: 21300000, guid: cfcbae2a63ed62f4bbb40cdf71623fd6, type: 3}
+  - {fileID: 21300000, guid: 3007fe7ce69c9074d862b4194ad60b7d, type: 3}
+  - {fileID: 21300000, guid: 4c8ac39846ca37a419575a749bb758da, type: 3}
+  - {fileID: 21300000, guid: 714c5aa294b84ae49bea7ba7f2021f16, type: 3}
+  - {fileID: 21300000, guid: c044d0a6039546d46914122c9109bfca, type: 3}
+  - {fileID: 21300000, guid: d785a5aee265b394198bad41d9b5758d, type: 3}
+  - {fileID: 21300000, guid: a6ef22efa8faa884693cd685172ad1c6, type: 3}
+  - {fileID: 21300000, guid: 77581e76256801a45849158b1fa32515, type: 3}
+  - {fileID: 21300000, guid: b6d1041c5aca763458c20bf5837b59f7, type: 3}
+  - {fileID: 21300000, guid: 78bbe05e1b4ca554e928afa979e45ee3, type: 3}
+  - {fileID: 21300000, guid: 8b985608618b21d46a9dcb93f09ef132, type: 3}
+  kart_arka: {fileID: 21300000, guid: 0291ef6df41029e49a6b0257d7dc289f, type: 3}
+  AltKonum:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  UstKonum:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  OrtaKonum: {fileID: 0}
+  OyunSirasi: -1
+  AltKonumHazinesi: []
+  UstKonumHazinesi: []
+  AltKonumPisti: 0
+  UstKonumPisti: 0
+  mevcutturn: 0
+  puan_insan: 0
+  puan_bot: 0
+  skorboard: {fileID: 5554158059833749102, guid: 08bf7ae3c4902f04981fed1ba4c941c2,
+    type: 3}
+  buton: {fileID: 1928787174024312948, guid: 6e25bb38670260d4782d447c26813e51, type: 3}
