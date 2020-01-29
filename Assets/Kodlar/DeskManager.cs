@@ -48,6 +48,7 @@ public class DeskManager : MonoBehaviour
     
     void Start()
     {
+        GetSingleton();
         kartYuzeyiObjesi = GameObject.FindGameObjectWithTag("Deste");
         for (int i = 0; i < 52; i++)
         {
@@ -72,6 +73,7 @@ public class DeskManager : MonoBehaviour
 
     public static DeskManager GetSingleton()
     {
+        
         if(singleton == null)
         {
             if(GameObject.Find("MasaYoneticisi") != null)
@@ -82,6 +84,7 @@ public class DeskManager : MonoBehaviour
             {
                 GameObject Masa_Yoneticisi= new GameObject("MasaYoneticisi");
                 singleton = Masa_Yoneticisi.AddComponent<DeskManager>();
+                Debug.Log("singleton oluşturuldu");
             }
 
         }

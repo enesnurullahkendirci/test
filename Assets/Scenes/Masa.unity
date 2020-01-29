@@ -605,7 +605,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1204522314
 GameObject:
@@ -1202,7 +1202,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1569822385
 GameObject:
@@ -1297,7 +1297,7 @@ RectTransform:
   - {fileID: 1266619911}
   - {fileID: 237563096}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -2163,85 +2163,6 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 78bbe05e1b4ca554e928afa979e45ee3, type: 3}
   - {fileID: 21300000, guid: 8b985608618b21d46a9dcb93f09ef132, type: 3}
   kartArkasi: {fileID: 21300000, guid: 0291ef6df41029e49a6b0257d7dc289f, type: 3}
---- !u!1001 &1991433956
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 2903765284939252122, guid: f7a5ea954622c7c44a719c1c35e72d29,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3643663131642992556, guid: f7a5ea954622c7c44a719c1c35e72d29,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4686887305145169889, guid: f7a5ea954622c7c44a719c1c35e72d29,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 21.74
-      objectReference: {fileID: 0}
-    - target: {fileID: 4686887305145169889, guid: f7a5ea954622c7c44a719c1c35e72d29,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.14
-      objectReference: {fileID: 0}
-    - target: {fileID: 4686887305145169889, guid: f7a5ea954622c7c44a719c1c35e72d29,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4686887305145169889, guid: f7a5ea954622c7c44a719c1c35e72d29,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4686887305145169889, guid: f7a5ea954622c7c44a719c1c35e72d29,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4686887305145169889, guid: f7a5ea954622c7c44a719c1c35e72d29,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4686887305145169889, guid: f7a5ea954622c7c44a719c1c35e72d29,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4686887305145169889, guid: f7a5ea954622c7c44a719c1c35e72d29,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 4686887305145169889, guid: f7a5ea954622c7c44a719c1c35e72d29,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4686887305145169889, guid: f7a5ea954622c7c44a719c1c35e72d29,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4686887305145169889, guid: f7a5ea954622c7c44a719c1c35e72d29,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4686887305145169891, guid: f7a5ea954622c7c44a719c1c35e72d29,
-        type: 3}
-      propertyPath: m_Name
-      value: Kart
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: f7a5ea954622c7c44a719c1c35e72d29, type: 3}
 --- !u!1 &2116639534
 GameObject:
   m_ObjectHideFlags: 0

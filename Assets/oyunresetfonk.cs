@@ -20,6 +20,14 @@ public class oyunresetfonk : MonoBehaviour
     }
     public void oyun_calistir()
     {
+        if(DeskManager.singleton != null)
+        {
+            DestroyImmediate(GameObject.Find("MasaYoneticisi").gameObject);
+
+        }
+        DeskManager.singleton = null;
+        Debug.Log(DeskManager.singleton);
+        Debug.Log("BURADASIN");
         DeskManager.GetSingleton();
         buton.transform.position=new Vector3(10000,0,0);
 
